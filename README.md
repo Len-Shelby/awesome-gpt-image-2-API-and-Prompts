@@ -32,6 +32,8 @@ Welcome to the **Awesome GPT Image 2 Prompts** repository! 🤗
 
 Browse by category, copy a complete prompt, and adapt its placeholders or constraints to your own image. Every case keeps its original source and creator attribution wherever available.
 
+For the current EvoLink presentation with preview images, difficulty labels, tags, and expandable prompts, see the [2026 featured gallery mirror](docs/evolink-gallery-2026.md).
+
 If this library is useful, consider giving it a star. ⭐
 
 <a id="quick-start"></a>
